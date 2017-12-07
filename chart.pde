@@ -6,7 +6,6 @@ Pie chart;
 void setup() {
   size(800, 600);
   background(50);
-  surface.setResizable(true);
   chart = new Pie();
 }
 
